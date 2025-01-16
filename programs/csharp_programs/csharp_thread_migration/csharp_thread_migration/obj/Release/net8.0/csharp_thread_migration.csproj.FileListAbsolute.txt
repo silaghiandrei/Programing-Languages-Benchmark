@@ -1,0 +1,14 @@
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_thread_migration\csharp_thread_migration\bin\Release\net8.0\csharp_thread_migration.exe
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_thread_migration\csharp_thread_migration\bin\Release\net8.0\csharp_thread_migration.deps.json
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_thread_migration\csharp_thread_migration\bin\Release\net8.0\csharp_thread_migration.runtimeconfig.json
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_thread_migration\csharp_thread_migration\bin\Release\net8.0\csharp_thread_migration.dll
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_thread_migration\csharp_thread_migration\bin\Release\net8.0\csharp_thread_migration.pdb
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_thread_migration\csharp_thread_migration\obj\Release\net8.0\csharp_thread_migration.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_thread_migration\csharp_thread_migration\obj\Release\net8.0\csharp_thread_migration.AssemblyInfoInputs.cache
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_thread_migration\csharp_thread_migration\obj\Release\net8.0\csharp_thread_migration.AssemblyInfo.cs
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_thread_migration\csharp_thread_migration\obj\Release\net8.0\csharp_thread_migration.csproj.CoreCompileInputs.cache
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_thread_migration\csharp_thread_migration\obj\Release\net8.0\csharp_thread_migration.dll
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_thread_migration\csharp_thread_migration\obj\Release\net8.0\refint\csharp_thread_migration.dll
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_thread_migration\csharp_thread_migration\obj\Release\net8.0\csharp_thread_migration.pdb
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_thread_migration\csharp_thread_migration\obj\Release\net8.0\csharp_thread_migration.genruntimeconfig.cache
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_thread_migration\csharp_thread_migration\obj\Release\net8.0\ref\csharp_thread_migration.dll

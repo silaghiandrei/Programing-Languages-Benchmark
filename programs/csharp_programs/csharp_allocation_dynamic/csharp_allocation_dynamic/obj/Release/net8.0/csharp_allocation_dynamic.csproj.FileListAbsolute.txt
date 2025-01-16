@@ -1,0 +1,14 @@
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_allocation_dynamic\csharp_allocation_dynamic\bin\Release\net8.0\csharp_allocation_dynamic.exe
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_allocation_dynamic\csharp_allocation_dynamic\bin\Release\net8.0\csharp_allocation_dynamic.deps.json
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_allocation_dynamic\csharp_allocation_dynamic\bin\Release\net8.0\csharp_allocation_dynamic.runtimeconfig.json
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_allocation_dynamic\csharp_allocation_dynamic\bin\Release\net8.0\csharp_allocation_dynamic.dll
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_allocation_dynamic\csharp_allocation_dynamic\bin\Release\net8.0\csharp_allocation_dynamic.pdb
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_allocation_dynamic\csharp_allocation_dynamic\obj\Release\net8.0\csharp_allocation_dynamic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_allocation_dynamic\csharp_allocation_dynamic\obj\Release\net8.0\csharp_allocation_dynamic.AssemblyInfoInputs.cache
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_allocation_dynamic\csharp_allocation_dynamic\obj\Release\net8.0\csharp_allocation_dynamic.AssemblyInfo.cs
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_allocation_dynamic\csharp_allocation_dynamic\obj\Release\net8.0\csharp_allocation_dynamic.csproj.CoreCompileInputs.cache
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_allocation_dynamic\csharp_allocation_dynamic\obj\Release\net8.0\csharp_allocation_dynamic.dll
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_allocation_dynamic\csharp_allocation_dynamic\obj\Release\net8.0\refint\csharp_allocation_dynamic.dll
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_allocation_dynamic\csharp_allocation_dynamic\obj\Release\net8.0\csharp_allocation_dynamic.pdb
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_allocation_dynamic\csharp_allocation_dynamic\obj\Release\net8.0\csharp_allocation_dynamic.genruntimeconfig.cache
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_allocation_dynamic\csharp_allocation_dynamic\obj\Release\net8.0\ref\csharp_allocation_dynamic.dll

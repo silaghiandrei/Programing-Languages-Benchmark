@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "csharp_context_switch/1.0.0": {
+        "runtime": {
+          "csharp_context_switch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "csharp_context_switch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

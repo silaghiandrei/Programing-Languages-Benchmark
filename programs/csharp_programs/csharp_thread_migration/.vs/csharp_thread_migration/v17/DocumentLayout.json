@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Facultate\\3-sem1\\SSC\\proiect\\programs\\csharp_programs\\csharp_thread_migration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02A74AE5-DEB9-4AFF-9AD4-171CF284A393}|csharp_thread_migration\\csharp_thread_migration.csproj|e:\\facultate\\3-sem1\\ssc\\proiect\\programs\\csharp_programs\\csharp_thread_migration\\csharp_thread_migration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A74AE5-DEB9-4AFF-9AD4-171CF284A393}|csharp_thread_migration\\csharp_thread_migration.csproj|solutionrelative:csharp_thread_migration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Facultate\\3-sem1\\SSC\\proiect\\programs\\csharp_programs\\csharp_thread_migration\\csharp_thread_migration\\Program.cs",
+              "RelativeDocumentMoniker": "csharp_thread_migration\\Program.cs",
+              "ToolTip": "E:\\Facultate\\3-sem1\\SSC\\proiect\\programs\\csharp_programs\\csharp_thread_migration\\csharp_thread_migration\\Program.cs",
+              "RelativeToolTip": "csharp_thread_migration\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:53:35.786Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

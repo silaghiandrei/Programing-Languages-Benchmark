@@ -1,0 +1,14 @@
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_thread_creation\csharp_thread_creation\bin\Release\net8.0\csharp_thread_creation.exe
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_thread_creation\csharp_thread_creation\bin\Release\net8.0\csharp_thread_creation.deps.json
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_thread_creation\csharp_thread_creation\bin\Release\net8.0\csharp_thread_creation.runtimeconfig.json
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_thread_creation\csharp_thread_creation\bin\Release\net8.0\csharp_thread_creation.dll
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_thread_creation\csharp_thread_creation\bin\Release\net8.0\csharp_thread_creation.pdb
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_thread_creation\csharp_thread_creation\obj\Release\net8.0\csharp_thread_creation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_thread_creation\csharp_thread_creation\obj\Release\net8.0\csharp_thread_creation.AssemblyInfoInputs.cache
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_thread_creation\csharp_thread_creation\obj\Release\net8.0\csharp_thread_creation.AssemblyInfo.cs
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_thread_creation\csharp_thread_creation\obj\Release\net8.0\csharp_thread_creation.csproj.CoreCompileInputs.cache
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_thread_creation\csharp_thread_creation\obj\Release\net8.0\csharp_thread_creation.dll
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_thread_creation\csharp_thread_creation\obj\Release\net8.0\refint\csharp_thread_creation.dll
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_thread_creation\csharp_thread_creation\obj\Release\net8.0\csharp_thread_creation.pdb
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_thread_creation\csharp_thread_creation\obj\Release\net8.0\csharp_thread_creation.genruntimeconfig.cache
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_thread_creation\csharp_thread_creation\obj\Release\net8.0\ref\csharp_thread_creation.dll

@@ -1,0 +1,14 @@
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_dynamic_writing\csharp_dynamic_writing\bin\Release\net8.0\csharp_dynamic_writing.exe
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_dynamic_writing\csharp_dynamic_writing\bin\Release\net8.0\csharp_dynamic_writing.deps.json
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_dynamic_writing\csharp_dynamic_writing\bin\Release\net8.0\csharp_dynamic_writing.runtimeconfig.json
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_dynamic_writing\csharp_dynamic_writing\bin\Release\net8.0\csharp_dynamic_writing.dll
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_dynamic_writing\csharp_dynamic_writing\bin\Release\net8.0\csharp_dynamic_writing.pdb
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_dynamic_writing\csharp_dynamic_writing\obj\Release\net8.0\csharp_dynamic_writing.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_dynamic_writing\csharp_dynamic_writing\obj\Release\net8.0\csharp_dynamic_writing.AssemblyInfoInputs.cache
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_dynamic_writing\csharp_dynamic_writing\obj\Release\net8.0\csharp_dynamic_writing.AssemblyInfo.cs
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_dynamic_writing\csharp_dynamic_writing\obj\Release\net8.0\csharp_dynamic_writing.csproj.CoreCompileInputs.cache
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_dynamic_writing\csharp_dynamic_writing\obj\Release\net8.0\csharp_dynamic_writing.dll
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_dynamic_writing\csharp_dynamic_writing\obj\Release\net8.0\refint\csharp_dynamic_writing.dll
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_dynamic_writing\csharp_dynamic_writing\obj\Release\net8.0\csharp_dynamic_writing.pdb
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_dynamic_writing\csharp_dynamic_writing\obj\Release\net8.0\csharp_dynamic_writing.genruntimeconfig.cache
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_dynamic_writing\csharp_dynamic_writing\obj\Release\net8.0\ref\csharp_dynamic_writing.dll

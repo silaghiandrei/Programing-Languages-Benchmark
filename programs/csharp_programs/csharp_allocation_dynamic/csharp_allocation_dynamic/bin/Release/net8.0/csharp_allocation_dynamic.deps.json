@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "csharp_allocation_dynamic/1.0.0": {
+        "runtime": {
+          "csharp_allocation_dynamic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "csharp_allocation_dynamic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_context_switch\csharp_context_switch\bin\Release\net8.0\csharp_context_switch.exe
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_context_switch\csharp_context_switch\bin\Release\net8.0\csharp_context_switch.deps.json
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_context_switch\csharp_context_switch\bin\Release\net8.0\csharp_context_switch.runtimeconfig.json
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_context_switch\csharp_context_switch\bin\Release\net8.0\csharp_context_switch.dll
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_context_switch\csharp_context_switch\bin\Release\net8.0\csharp_context_switch.pdb
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_context_switch\csharp_context_switch\obj\Release\net8.0\csharp_context_switch.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_context_switch\csharp_context_switch\obj\Release\net8.0\csharp_context_switch.AssemblyInfoInputs.cache
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_context_switch\csharp_context_switch\obj\Release\net8.0\csharp_context_switch.AssemblyInfo.cs
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_context_switch\csharp_context_switch\obj\Release\net8.0\csharp_context_switch.csproj.CoreCompileInputs.cache
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_context_switch\csharp_context_switch\obj\Release\net8.0\csharp_context_switch.dll
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_context_switch\csharp_context_switch\obj\Release\net8.0\refint\csharp_context_switch.dll
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_context_switch\csharp_context_switch\obj\Release\net8.0\csharp_context_switch.pdb
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_context_switch\csharp_context_switch\obj\Release\net8.0\csharp_context_switch.genruntimeconfig.cache
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_context_switch\csharp_context_switch\obj\Release\net8.0\ref\csharp_context_switch.dll

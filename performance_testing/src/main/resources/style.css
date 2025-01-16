@@ -1,0 +1,95 @@
+.main-panel {
+    -fx-background-color:#385044;
+}
+
+.top-bar {
+    -fx-background-color: #1A2018;
+}
+
+.scroll-pane {
+    -fx-background-color: #1A2018;
+    -fx-background-radius: 10px;
+}
+
+.scroll-pane .viewport {
+    -fx-background-color: #1A2018;
+    -fx-background-radius: 10px;
+}
+
+.scroll-bar {
+    -fx-background-color: #323531;
+    -fx-background-radius: 10px;
+    -fx-translate-x: -2px;
+    -fx-pref-height: 300;
+    -fx-background-insets: 3 0 3 0;
+}
+
+.scroll-bar .thumb {
+    -fx-background-color: #4F5E49;
+    -fx-background-radius: 5px;
+}
+
+.test-panel {
+    -fx-background-color: #3C4439;
+    -fx-background-radius: 10px;
+    -fx-background-insets: 10 5 0 10;
+}
+
+.test-panel:pressed {
+    -fx-border-color: #79A876;
+    -fx-border-radius: 10px;
+    -fx-border-insets: 10 5 0 10;
+}
+
+.text-field {
+    -fx-background-color: #1A2018;
+    -fx-background-radius: 10px;
+    -fx-text-fill: #385044;
+    -fx-font-family: "Tahoma";
+    -fx-text-alignment: center;
+    -fx-font-size: 15;
+}
+
+.start-button {
+    -fx-background-color: #1A2018;
+    -fx-background-radius: 10px;
+    -fx-text-fill: #79A876;
+    -fx-font-family: "Tahoma";
+    -fx-text-alignment: center;
+    -fx-font-size: 20;
+    -fx-border-radius: 10px;
+}
+
+.start-button:hover {
+    -fx-border-color: #79A876;
+}
+
+.data-panel {
+    -fx-background-color: #1A2018;
+    -fx-background-radius: 10px;
+}
+
+.lang-text {
+    -fx-text-fill: #79A876;
+    -fx-font-family: "Tahoma";
+    -fx-font-size: 20;
+}
+
+.text {
+    -fx-text-fill: #79A876;
+    -fx-font-family: "Tahoma";
+    -fx-font-size: 17;
+}
+
+.check-box .box {
+    -fx-border-color: #79A876;
+    -fx-border-width: 2px;
+    -fx-background-color: transparent;
+    -fx-border-radius: 3px;
+    -fx-padding: 3;                   
+}
+
+.check-box:selected .box {
+    -fx-background-color: #79A876;
+}
+

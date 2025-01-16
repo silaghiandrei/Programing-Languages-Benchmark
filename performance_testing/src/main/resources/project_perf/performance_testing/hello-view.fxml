@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Text?>
+
+<Pane fx:id="mainPanel" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1200.0" styleClass="main-panel" stylesheets="@../../style.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="project_perf.performance_testing.PerformanceTestingController">
+   <children>
+      <Pane fx:id="topBar" prefHeight="90.0" prefWidth="1200.0" styleClass="top-bar" stylesheets="@../../style.css" />
+      <ScrollPane fx:id="scrollPane" layoutX="15.0" layoutY="105.0" prefHeight="610.0" prefWidth="300.0" stylesheets="@../../style.css">
+         <content>
+            <VBox fx:id="tests" prefHeight="910.0" prefWidth="280.0">
+               <children>
+                  <Pane fx:id="test1" onMouseClicked="#toggleCheckBoxInPane" prefHeight="100.0" prefWidth="200.0" styleClass="test-panel" stylesheets="@../../style.css">
+                     <children>
+                        <CheckBox fx:id="test1Check" layoutX="235.0" layoutY="65.0" mnemonicParsing="false" prefHeight="20.0" prefWidth="20.0" stylesheets="@../../style.css" />
+                        <Text fx:id="text1" fill="#79a876" layoutX="30.0" layoutY="40.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="text" text="Static Allocation" />
+                        <TextField fx:id="textField1" disable="true" layoutX="30.0" layoutY="60.0" onMouseClicked="#clearText" prefHeight="20.0" prefWidth="120.0" />
+                     </children></Pane>
+                  <Pane fx:id="test2" onMouseClicked="#toggleCheckBoxInPane" prefHeight="100.0" prefWidth="200.0" styleClass="test-panel" stylesheets="@../../style.css">
+                     <children>
+                        <CheckBox fx:id="test2Check" layoutX="235.0" layoutY="65.0" mnemonicParsing="false" stylesheets="@../../style.css" />
+                        <Text fx:id="text2" fill="#79a876" layoutX="30.0" layoutY="40.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="text" text="Dynamic allocation" />
+                        <TextField fx:id="textField2" layoutX="30.0" layoutY="60.0" onMouseClicked="#clearText" prefHeight="20.0" prefWidth="120.0" text="5000" />
+                     </children></Pane>
+                  <Pane fx:id="test3" onMouseClicked="#toggleCheckBoxInPane" prefHeight="100.0" prefWidth="200.0" styleClass="test-panel" stylesheets="@../../style.css">
+                     <children>
+                        <CheckBox fx:id="test3Check" layoutX="235.0" layoutY="65.0" mnemonicParsing="false" stylesheets="@../../style.css" />
+                        <Text fx:id="text3" fill="#79a876" layoutX="30.0" layoutY="40.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="text" text="Static reading" />
+                        <TextField fx:id="textField3" disable="true" layoutX="30.0" layoutY="60.0" onMouseClicked="#clearText" prefHeight="20.0" prefWidth="120.0" />
+                     </children></Pane>
+                  <Pane fx:id="test4" onMouseClicked="#toggleCheckBoxInPane" prefHeight="100.0" prefWidth="200.0" styleClass="test-panel" stylesheets="@../../style.css">
+                     <children>
+                        <CheckBox fx:id="test4Check" layoutX="235.0" layoutY="65.0" mnemonicParsing="false" stylesheets="@../../style.css" />
+                        <Text fx:id="text4" fill="#79a876" layoutX="30.0" layoutY="40.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="text" text="Dynamic reading" />
+                        <TextField fx:id="textField4" layoutX="30.0" layoutY="60.0" onMouseClicked="#clearText" prefHeight="20.0" prefWidth="120.0" text="5000" />
+                     </children></Pane>
+                  <Pane fx:id="test5" onMouseClicked="#toggleCheckBoxInPane" prefHeight="100.0" prefWidth="200.0" styleClass="test-panel" stylesheets="@../../style.css">
+                     <children>
+                        <CheckBox fx:id="test5Check" layoutX="235.0" layoutY="65.0" mnemonicParsing="false" stylesheets="@../../style.css" />
+                        <Text fx:id="text5" fill="#79a876" layoutX="30.0" layoutY="40.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="text" text="Static writing" />
+                        <TextField fx:id="textField5" disable="true" layoutX="30.0" layoutY="60.0" onMouseClicked="#clearText" prefHeight="20.0" prefWidth="120.0" />
+                     </children></Pane>
+                  <Pane fx:id="test6" onMouseClicked="#toggleCheckBoxInPane" prefHeight="100.0" prefWidth="200.0" styleClass="test-panel" stylesheets="@../../style.css">
+                     <children>
+                        <CheckBox fx:id="test6Check" layoutX="235.0" layoutY="65.0" mnemonicParsing="false" stylesheets="@../../style.css" />
+                        <Text fx:id="text6" fill="#79a876" layoutX="30.0" layoutY="40.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="text" text="Dynamic writing" />
+                        <TextField fx:id="textField6" layoutX="30.0" layoutY="60.0" onMouseClicked="#clearText" prefHeight="20.0" prefWidth="120.0" text="5000" />
+                     </children></Pane>
+                  <Pane fx:id="test7" onMouseClicked="#toggleCheckBoxInPane" prefHeight="100.0" prefWidth="200.0" styleClass="test-panel" stylesheets="@../../style.css">
+                     <children>
+                        <CheckBox fx:id="test7Check" layoutX="235.0" layoutY="65.0" mnemonicParsing="false" stylesheets="@../../style.css" />
+                        <Text fx:id="text7" fill="#79a876" layoutX="30.0" layoutY="40.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="text" text="Thread creation" />
+                        <TextField fx:id="textField7" layoutX="30.0" layoutY="60.0" onMouseClicked="#clearText" prefHeight="20.0" prefWidth="120.0" text="5" />
+                     </children></Pane>
+                  <Pane fx:id="test8" onMouseClicked="#toggleCheckBoxInPane" prefHeight="100.0" prefWidth="200.0" styleClass="test-panel" stylesheets="@../../style.css">
+                     <children>
+                        <CheckBox fx:id="test8Check" layoutX="235.0" layoutY="65.0" mnemonicParsing="false" stylesheets="@../../style.css" />
+                        <Text fx:id="text8" fill="#79a876" layoutX="30.0" layoutY="40.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="text" text="Thread migration" />
+                        <TextField fx:id="textField8" layoutX="30.0" layoutY="60.0" onMouseClicked="#clearText" prefHeight="20.0" prefWidth="120.0" text="5" />
+                     </children></Pane>
+                  <Pane fx:id="test9" onMouseClicked="#toggleCheckBoxInPane" prefHeight="100.0" prefWidth="200.0" styleClass="test-panel" stylesheets="@../../style.css">
+                     <children>
+                        <CheckBox fx:id="test9Check" layoutX="235.0" layoutY="65.0" mnemonicParsing="false" stylesheets="@../../style.css" />
+                        <Text fx:id="text9" fill="#79a876" layoutX="30.0" layoutY="40.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="text" text="Context switch" />
+                        <TextField fx:id="textField9" layoutX="30.0" layoutY="60.0" onMouseClicked="#clearText" prefHeight="20.0" prefWidth="120.0" text="5" />
+                     </children></Pane>
+               </children>
+            </VBox>
+         </content>
+      </ScrollPane>
+      <Button fx:id="startButton" layoutX="15.0" layoutY="734.0" mnemonicParsing="false" onMouseClicked="#startProcesses" prefHeight="50.0" prefWidth="300.0" styleClass="start-button" stylesheets="@../../style.css" text="START" />
+      <ScrollPane fx:id="dataPane" layoutX="334.0" layoutY="105.0" prefHeight="680.0" prefWidth="840.0" styleClass="data-panel" stylesheets="@../../style.css">
+         <content>
+            <VBox fx:id="chartPane" layoutX="20.0" layoutY="20.0" prefHeight="7200.0" prefWidth="800.0" />
+         </content></ScrollPane>
+   </children>
+</Pane>
