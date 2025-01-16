@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <windows.h>
 
-#define SIZE 5000
+#define SIZE 1000
 
 double get_time() {
     LARGE_INTEGER frequency;

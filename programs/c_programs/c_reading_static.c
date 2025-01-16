@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <windows.h>
 
-#define SIZE 5000
+#define SIZE 1000
 
 double get_time() {
     LARGE_INTEGER frequency;
@@ -16,7 +16,7 @@ double get_time() {
 
 void fill_array(int* arr, int size) {
     for (int i = 0; i < size; i++) {
-        arr[i] = i;
+        arr[i] = 0;
     }
 }
 

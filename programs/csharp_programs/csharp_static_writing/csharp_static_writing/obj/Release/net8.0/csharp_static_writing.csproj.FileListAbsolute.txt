@@ -12,3 +12,4 @@ E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_static_writing\c
 E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_static_writing\csharp_static_writing\obj\Release\net8.0\csharp_static_writing.pdb
 E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_static_writing\csharp_static_writing\obj\Release\net8.0\csharp_static_writing.genruntimeconfig.cache
 E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_static_writing\csharp_static_writing\obj\Release\net8.0\ref\csharp_static_writing.dll
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_static_writing\csharp_static_writing\obj\Release\net8.0\csharp_static_writing.sourcelink.json

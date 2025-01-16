@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 
 public class StaticAllocation {
-    static final int SIZE = 5000;
+    static final int SIZE = 1000;
 
     static double getTime() {
         return System.nanoTime() / 1e3;

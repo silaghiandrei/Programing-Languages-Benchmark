@@ -12,3 +12,4 @@ E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_reading_static\c
 E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_reading_static\csharp_reading_static\obj\Release\net8.0\csharp_reading_static.pdb
 E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_reading_static\csharp_reading_static\obj\Release\net8.0\csharp_reading_static.genruntimeconfig.cache
 E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_reading_static\csharp_reading_static\obj\Release\net8.0\ref\csharp_reading_static.dll
+E:\Facultate\3-sem1\SSC\proiect\programs\csharp_programs\csharp_reading_static\csharp_reading_static\obj\Release\net8.0\csharp_reading_static.sourcelink.json

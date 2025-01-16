@@ -5,7 +5,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 public class StaticWriting {
-    private static final int SIZE = 5000;
+    private static final int SIZE = 1000;
 
     static final int[] staticArray = new int[SIZE];
 

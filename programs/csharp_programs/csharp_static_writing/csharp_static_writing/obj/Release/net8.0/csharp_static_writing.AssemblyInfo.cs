@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("csharp_static_writing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdb70e170ef35c4d1360f3b847c3bc34ba77f260")]
 [assembly: System.Reflection.AssemblyProductAttribute("csharp_static_writing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("csharp_static_writing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

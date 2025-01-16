@@ -4,7 +4,7 @@ using System.IO;
 
 class Program
 {
-    const int SIZE = 5000;
+    const int SIZE = 1000;
 
     static double GetTime()
     {
